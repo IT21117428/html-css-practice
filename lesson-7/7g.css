@@ -1,0 +1,37 @@
+.image{
+  width: 70px;
+  border-radius: 35px;
+  border: none;
+  margin-top: 0;
+  margin-bottom: 0;
+  vertical-align: middle;
+}
+
+.text{
+  border: none;
+  font-size: 17px;
+  vertical-align: middle;
+  margin-left: 3px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 40px;
+}
+
+.tweet-btn{
+  background-color: rgb(0, 162, 255);
+  color: white;
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 35px;
+  cursor: pointer;
+  vertical-align: middle;
+  transition: background-color 0.15s;
+}
+
+.tweet-btn:hover{
+  background-color: rgb(0, 117, 185);
+}
