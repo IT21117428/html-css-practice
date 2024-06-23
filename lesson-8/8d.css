@@ -1,0 +1,59 @@
+.first{
+  font-family: Arial;
+  font-size: 14px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  width: 130px;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: gainsboro;
+}
+
+.last{
+  font-family: Arial;
+  font-size: 14px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  width: 130px;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: gainsboro;
+  margin-left: 5px;
+  margin-bottom: 10px;
+}
+
+.email{
+  font-family: Arial;
+  font-size: 14px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  width: 285px;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: gainsboro;
+  display: block;
+  margin-bottom: 15px;
+}
+
+.signup-btn{
+  border: none;
+  border-radius: 10px;
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: bold;
+  background-color: rgb(0, 98, 209);
+  color: white;
+  font-family: Arial;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  width: 300px;
+  cursor: pointer;
+  transition: background-color 0.15;
+}
+
+.signup-btn:hover{
+  background-color: rgb(1, 64, 136);
+}
