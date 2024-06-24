@@ -1,0 +1,51 @@
+p{
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 5px;
+}
+
+.contain{
+  display: inline-block;
+  padding-bottom: 6px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.15);
+  transition: box-shadow 1s;
+}
+
+.contain:hover{
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.40);
+}
+
+.img{
+  width: 150px;
+  height: 165px;
+}
+
+.name{
+  font-family: Arial;
+  font-size: 15px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.mutual{
+  font-family: Arial;
+  font-size: 13px;
+  color: gray;
+  margin-bottom: 15px;
+}
+
+.add-btn{
+  border: none;
+  background-color: rgb(0, 140, 255);
+  color: white;
+  width: 95px;
+  height: 35px;
+  margin-top: 0;
+  margin-left: 5px;
+  transition: background-color 0.15s;
+  cursor: pointer;
+}
+
+.add-btn:hover{
+  background-color: rgb(0, 97, 177);
+}
