@@ -1,0 +1,13 @@
+.contain{
+  display: inline-block;
+  margin-top: 20px;
+  margin-left: 20px;
+  border-color: gainsboro;
+  border-width: 1px;
+  border-style: solid;
+  padding-top: 5px;
+  padding-bottom: 15px;
+  padding-left: 10px;
+  width: 250px;
+  box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.15);
+}

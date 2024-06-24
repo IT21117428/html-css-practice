@@ -1,0 +1,19 @@
+.contain{
+  width: 350px;
+  padding-left: 15px;
+  display: inline-block;
+  color: white;
+  background-color: black;
+}
+
+.title{
+  font-family: Arial;
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 0px;
+}
+
+.description{
+  margin-top: 10px;
+  color: rgb(148, 148, 148);
+}
